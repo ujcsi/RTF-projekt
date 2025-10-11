@@ -9,6 +9,6 @@ public class Teszt {
         System.out.println("Ujcsi uj branch");
         System.out.println("Ötödik sor");
         System.out.println("Ötödik sor");
-        System.out.println("Hatodik sor javítva");
+        System.out.println("Hatodik sor javítvafdfdf");
     }
 }
