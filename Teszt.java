@@ -7,5 +7,8 @@ public class Teszt {
         System.out.println("Második sor Ujcsi");
         System.out.println("Második új sor Nyuszi");
         System.out.println("Ujcsi uj branch");
+        System.out.println("Ötödik sor");
+        System.out.println("Ötödik sor");
+        System.out.println("Hatodik sor javítvafdfdf");
     }
 }
